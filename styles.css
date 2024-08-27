@@ -1,0 +1,36 @@
+body {
+    background-color: #e0f7fa;
+    font-family: 'Arial', sans-serif;
+    color: #006064;
+    text-align: center;
+    padding: 20px;
+}
+
+header {
+    background-color: #80deea;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 2.5em;
+    color: #004d40;
+}
+
+p {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+
+a {
+    color: #004d40;
+    font-weight: bold;
+}
+
+footer {
+    margin-top: 50px;
+    padding: 10px;
+    background-color: #00796b;
+    color: white;
+    border-radius: 10px;
+}
